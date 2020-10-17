@@ -1,1 +1,1 @@
-# all the the computer graphics bascic works and some algorithm implementation
+# all the computer graphics basic works and some algorithm implementation
